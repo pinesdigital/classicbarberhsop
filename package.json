@@ -1,0 +1,15 @@
+{
+  "name": "classic_barbershop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://pinesdigital.github.io/classicbarbershop",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
