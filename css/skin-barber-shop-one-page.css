@@ -1866,7 +1866,7 @@ body,
 	background-image: url(../images/barber-shop/generic/hero-half-2.jpg);
 }
 .hero-5-3 .media-column{
-	background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(../images/andi-whiskey-vZQ0nLdFg5o-unsplash.jpg);
+	background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(../images/contact-compressed.jpg);
 }
 
 /* Call to Action */
@@ -3700,7 +3700,7 @@ only screen and (				min-resolution: 2dppx) {
 		background-image: url(../images/barber-shop/generic/hero-half-2@2x.jpg);
 	}
 	.hero-5-3 .media-column{
-		background-image: url(../images/clippers-1.jpg);
+		background-image: url(../images/contact-compressed.jpg);
 	}
 
 	/* Call to Action Sections */
